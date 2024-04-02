@@ -1,4 +1,4 @@
-# ToyShop readme
+# TO-DO readme
 ### Introduction
 A comprehensive backend API for a TO-DO web application with authentication and user management, task and category management to boost productivity.
 ### Project Support Features
